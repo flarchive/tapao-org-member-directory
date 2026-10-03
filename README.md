@@ -2,13 +2,20 @@
 
 > **Read-only archive of released versions of tapao/org-member-directory.** Not for installation: use [Packagist](https://packagist.org/packages/tapao/org-member-directory) or the [upstream repository](https://github.com/Tapao-NonSen/Org-Member-Directory).
 
-**0** versions archived · Latest: [`2.1.9`](https://github.com/flarchive/tapao-org-member-directory/tree/archive/v2.1.9) · License: `MIT` · Flarum: `^2.0`
+**8** versions archived · Latest: [`2.1.9`](https://github.com/flarchive/tapao-org-member-directory/tree/archive/v2.1.9) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `2.1.2` | 2026-07-19 | `^2.0` | [Browse](https://github.com/flarchive/tapao-org-member-directory/tree/archive/v2.1.2) |
+| `2.1.3` | 2026-07-19 | `^2.0` | [Browse](https://github.com/flarchive/tapao-org-member-directory/tree/archive/v2.1.3) |
+| `2.1.4` | 2026-07-19 | `^2.0` | [Browse](https://github.com/flarchive/tapao-org-member-directory/tree/archive/v2.1.4) |
+| `2.1.5` | 2026-09-16 | `^2.0` | [Browse](https://github.com/flarchive/tapao-org-member-directory/tree/archive/v2.1.5) |
+| `2.1.6` | 2026-09-16 | `^2.0` | [Browse](https://github.com/flarchive/tapao-org-member-directory/tree/archive/v2.1.6) |
+| `2.1.7` | 2026-09-16 | `^2.0` | [Browse](https://github.com/flarchive/tapao-org-member-directory/tree/archive/v2.1.7) |
+| `2.1.8` | 2026-09-16 | `^2.0` | [Browse](https://github.com/flarchive/tapao-org-member-directory/tree/archive/v2.1.8) |
+| `2.1.9` | 2026-09-16 | `^2.0` | [Browse](https://github.com/flarchive/tapao-org-member-directory/tree/archive/v2.1.9) |
 
 Catalog entry: [packages/tapao-org-member-directory.json](https://github.com/flarchive/archive-index/blob/main/packages/tapao-org-member-directory.json)
 
